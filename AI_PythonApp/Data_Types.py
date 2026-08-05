@@ -93,8 +93,23 @@ a = " Hello, World! "
 
 
 
-val=6750000
-amountOfPercent=20
-res=val*amountOfPercent/100
-print(res)
+#number=36
+# print(f"your number is {number}") #we use 'f' for combining string and number ,etc
+
+# price = 59
+# txt = f"The price is {price:.2f} dollars"
+# print(txt)
+
+#txt = "We are the so-called \"Vikings\" from the north." # we use \ to use double quotes inside string
+
+# \' 	Single Quote 	
+# \\ 	Backslash 	
+# \n 	New Line 	
+# \r 	Carriage Return 	
+# \t 	Tab 	
+# \b 	Backspace 	
+# \f 	Form Feed 	
+# \ooo 	Octal value 	
+# \xhh 	Hex value
+
 

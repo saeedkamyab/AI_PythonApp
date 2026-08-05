@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6ab6a75c-5264-49d4-9496-88521d8014dd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Data_Types.py</StartupFile>
+    <StartupFile>exercise.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,8 @@
   <ItemGroup>
     <Compile Include="AI_PythonApp.py" />
     <Compile Include="Data_Types.py" />
+    <Compile Include="exercise.py" />
+    <Compile Include="learning.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
